@@ -9,7 +9,7 @@ module.exports = (sequelize, DataTypes) => {
     {}
   );
   track.associate = function(models) {
-    track.belongsTo(album);
+    track.belongsTo(models.album);
   };
   return track;
 };
