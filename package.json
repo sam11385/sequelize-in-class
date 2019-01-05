@@ -1,0 +1,25 @@
+{
+  "name": "sequelize-in-class",
+  "version": "1.0.0",
+  "description": "in class demonstration fun stuff woo ron do you want my cat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam11385/sequelize-in-class.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sam11385/sequelize-in-class/issues"
+  },
+  "homepage": "https://github.com/sam11385/sequelize-in-class#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.7.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.42.0"
+  }
+}
